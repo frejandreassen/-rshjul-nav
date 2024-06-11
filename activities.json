@@ -1,0 +1,10 @@
+{
+  "data": [
+      {"id": "Aktivitet 1", "label": "Aktivitet 1", "parent": "Mar", "value": 1, "description": "Description of Aktivitet 1", "category": "Training"},
+      {"id": "Aktivitet 2", "label": "Aktivitet 2", "parent": "May", "value": 1, "description": "Description of Aktivitet 2", "category": "Development"},
+      {"id": "Aktivitet 3", "label": "Aktivitet 3", "parent": "Jul", "value": 1, "description": "Description of Aktivitet 3", "category": "Research"},
+      {"id": "Aktivitet 4", "label": "Aktivitet 4", "parent": "Sep", "value": 1, "description": "Description of Aktivitet 4", "category": "Maintenance"},
+      {"id": "Aktivitet 5", "label": "Aktivitet 5", "parent": "Nov", "value": 1, "description": "Description of Aktivitet 5", "category": "Marketing"},
+      {"id": "Aktivitet 6", "label": "Aktivitet 6", "parent": "Dec", "value": 1, "description": "Description of Aktivitet 6", "category": "Planning"}
+  ]
+}

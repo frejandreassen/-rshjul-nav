@@ -1,0 +1,22 @@
+{
+
+    "data": [
+      {"id": "Årshjul", "label": "Årshjul", "parent": "", "value": 0, "description": ""},
+      {"id": "Q4", "label": "", "parent": "Årshjul", "value": 0, "description": ""},
+      {"id": "Q3", "label": "", "parent": "Årshjul", "value": 0, "description": ""},
+      {"id": "Q2", "label": "", "parent": "Årshjul", "value": 0, "description": ""},
+      {"id": "Q1", "label": "", "parent": "Årshjul", "value": 0, "description": ""},
+      {"id": "Dec", "label": "Dec", "parent": "Q4", "value": 1, "description": ""},
+      {"id": "Nov", "label": "Nov", "parent": "Q4", "value": 1, "description": ""},
+      {"id": "Oct", "label": "Oct", "parent": "Q4", "value": 1, "description": ""},
+      {"id": "Sep", "label": "Sep", "parent": "Q3", "value": 1, "description": ""},
+      {"id": "Aug", "label": "Aug", "parent": "Q3", "value": 1, "description": ""},
+      {"id": "Jul", "label": "Jul", "parent": "Q3", "value": 1, "description": ""},
+      {"id": "Jun", "label": "Jun", "parent": "Q2", "value": 1, "description": ""},
+      {"id": "May", "label": "May", "parent": "Q2", "value": 1, "description": ""},
+      {"id": "Apr", "label": "Apr", "parent": "Q2", "value": 1, "description": ""},
+      {"id": "Mar", "label": "Mar", "parent": "Q1", "value": 1, "description": ""},
+      {"id": "Feb", "label": "Feb", "parent": "Q1", "value": 1, "description": ""},
+      {"id": "Jan", "label": "Jan", "parent": "Q1", "value": 1, "description": ""}
+    ]
+  }
