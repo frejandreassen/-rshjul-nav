@@ -3,6 +3,7 @@ from streamlit_gsheets import GSheetsConnection
 import plotly.express as px
 import json
 
+st.set_page_config(layout="wide")
 # Create a connection object
 conn = st.connection("gsheets", type=GSheetsConnection)
 
@@ -75,6 +76,7 @@ fig = px.sunburst(
     title="Näringslivsavdelningen Årshjul"
 )
 fig.update_traces(rotation=90)
+fig.update_layout(height=700)
 
 # Display the plot in Streamlit
 st.plotly_chart(fig, use_container_width=True)
